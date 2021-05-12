@@ -1,5 +1,7 @@
  <h2>     # Hi 🧐 </h2>
  
+   ![](https://komarev.com/ghpvc/?username=your-github-erdaldanis&label=PROFILE+VIEWS)
+   
   <pre> <code> 
 using System;
 class Program
