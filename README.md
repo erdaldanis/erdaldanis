@@ -1,4 +1,4 @@
- <h2>     #Hi 🧐 </h2>
+ <h2>     # Hi 🧐 </h2>
  
   <pre> <code> 
 using System;
@@ -6,7 +6,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Github projeme hoşgeldin!");
+        Console.WriteLine("Welcome to my Github Profil");
     } </code> </pre>
 
 
@@ -26,6 +26,7 @@ class Program
 <a href="https://www.instagram.com/erdaldanis/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" width=40 height=40></img> </a>
 <a href="https://twitter.com/erdaaldanis"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" width=40 height=40></img> </a>
 <a href="https://www.linkedin.com/in/erdaldanis/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" width=40 height=40></img> </a>
+
 
 
   
