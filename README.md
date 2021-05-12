@@ -23,7 +23,7 @@ class Program
 
 <h3> Stats </h3>
 
-[![Erdaldanis's github stats](https://github-readme-stats.vercel.app/api?username=Erdaldanis&count_private=true&show_icons=true&theme=react&hide_rank=false)](https://github.com/erdaldanis/github-readme-stats) 
+[![Erdaldanis's github stats](https://github-readme-stats.vercel.app/api?username=Erdaldanis&count_private=false&show_icons=false&theme=react&hide_rank=false)](https://github.com/erdaldanis/github-readme-stats) 
 
 <h3>**Languages and Tools - Just a few**  </h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
