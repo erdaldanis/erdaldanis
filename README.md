@@ -24,8 +24,6 @@ class Program
 👉🏻 I am currently trying to write a book on my knowledge in the field of SEO.
 
 <h3> Stats </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaldanis)
 [![Erdaldanis's github stats](https://github-readme-stats.vercel.app/api?username=Erdaldanis&count_private=false&show_icons=false&theme=react&hide_rank=false)](https://github.com/erdaldanis/github-readme-stats) 
 
 
